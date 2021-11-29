@@ -5,7 +5,7 @@
 This IP camera is a 1/3-inch type progressive CMOS image sensor that can offer excellent low light performance. The camera supports 3D DNR, DWDR, ONVIF, third-party NVR, mobile video surveillance (iOS,android), web, CMS, platform management software MYEYE, provides SDK, supports cloud service, network penetration, alarm information pushed to phone, etc.
 
 <h3>Setup</h3>
-Determine how you want to connect to your IP camera: mobile device; browser; computer etc. and download the neccessary software.
+Determine how you want to connect to your IP camera: mobile device; browser; computer etc.
 <ul> 
   <li> Mobile device: XMEye App </li>
   <li> Computer: <a href = "https://learncctv.com/wp-content/uploads/2018/03/CMS_V3.1.0.8.T.20170417.zip"> CMS </a> or login to local camera IP (Default 192.168.1.10) </li>
