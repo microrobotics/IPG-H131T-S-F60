@@ -10,7 +10,7 @@ Determine how you want to connect to your IP camera:
   <li> Mobile device: XMEye App </li>
   <li> Computer: <a href = "https://learncctv.com/wp-content/uploads/2018/03/CMS_V3.1.0.8.T.20170417.zip"> CMS </a> 
   <li> Browser: login to local camera IP (Default 192.168.1.10) </li>
-  <li> P2P via Cloud: <a href = "https://xmeye.net/index" target = "_blank" > XMEye.net </a> 
+  <li><a href="https://xmeye.net/index" target="_blank">P2P via Cloud: XMEye.net</a>
 </ul>
 Important: make sure there are no IP conflicts. It is possible to set IP address of camera with CMS software. System > Device Manager > Add Device > IP Search > Edit Device
 
